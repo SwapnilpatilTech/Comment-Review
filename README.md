@@ -1,12 +1,70 @@
-# React + Vite
+# 📝 Comment Review Form (React + Formik + Yup)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive comment/review form built using **React**, **Formik**, and **Yup** with real-time validation and modern UI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Add a link here after deployment (e.g., Vercel/Netlify)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshot
+
+> *(Optional)* Add a screenshot here of the final UI:
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend UI
+- **Vite** – Fast React bundler
+- **Formik** – Form state management
+- **Yup** – Validation schema
+- **CSS** – Custom responsive styling
+
+---
+
+## 📋 Features
+
+✅ User-friendly form layout  
+✅ Real-time input validation  
+✅ Responsive design  
+✅ Custom styled dropdown and checkbox  
+✅ Alerts on successful form submission  
+
+---
+
+## 🧾 Form Fields
+
+- Name (min 3 characters)
+- Age (positive number)
+- Email (valid email format)
+- Password (min 8 characters)
+- Category (Men / Women / Kids)
+- Accept Terms & Privacy Policy (checkbox)
+
+---
+
+## 📂 Folder Structure
+
+src/
+├── App.jsx
+├── Form.jsx
+├── main.jsx
+├── App.css
+└── components/
+└── (Optional if used)
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/SwapnilpatilTech/Comment-Review.git
+cd Comment-Review
