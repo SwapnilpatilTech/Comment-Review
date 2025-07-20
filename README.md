@@ -10,9 +10,7 @@ This is a responsive comment/review form built using **React**, **Formik**, and 
 
 ## 📸 Screenshot
 
-><img src="https://github.com/SwapnilpatilTech/Comment-Review/blob/b263b03dc987244a0b7311f9242a080c4129827b/src/Screenshot%202025-07-20%20182046.png"width=100%>---
-
----
+<img src="https://github.com/SwapnilpatilTech/counter2.O/blob/ba15c827fd2f640142bb2fe2c55da07f2f70aeb0/assets/Screenshot%202025-07-11%20142926.png"width=100%>
 
 ## 🛠️ Tech Stack
 
