@@ -9,9 +9,6 @@ This is a responsive comment/review form built using **React**, **Formik**, and 
 ---
 
 
-
-<img src="https://github.com/SwapnilpatilTech/counter2.O/blob/ba15c827fd2f640142bb2fe2c55da07f2f70aeb0/assets/Screenshot%202025-07-11%20142926.png"width=100%>
-
 ## 🛠️ Tech Stack
 
 - **React** – Frontend UI
