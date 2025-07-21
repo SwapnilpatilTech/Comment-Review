@@ -4,7 +4,7 @@ This is a responsive comment/review form built using **React**, **Formik**, and 
 
 ## 🚀 Live Demo
 
->https://drive.google.com/file/d/12yjcpp_qkyZl5OXW77bgP-VezCXc173j/view?usp=sharing
+https://drive.google.com/file/d/12yjcpp_qkyZl5OXW77bgP-VezCXc173j/view?usp=drive_link
 
 ---
 
